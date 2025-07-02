@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Unbenannt](https://github.com/user-attachments/assets/a311acfe-868a-42b2-bc4e-9aa76944e88c)
+
+🌱 I’m currently learning Data Science, I need the tools to start this journey!
