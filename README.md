@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Unbenannt](https://github.com/user-attachments/assets/a311acfe-868a-42b2-bc4e-9aa76944e88c)
 
-🌱 I’m currently learning Data Science, I need the tools to start this journey!
+🌱 I’m currently learning Data Science, it is providing me with the tools I need to start this journey!
