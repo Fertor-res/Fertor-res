@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/a311acfe-868a-42b2-bc4e-9aa76944e88c" alt="Unbenannt" width="200">
 </p>
 
-# Currently --🌱-- 
+## Currently --🌱-- 
 
 Learning Data Science is providing me with the tools to navigate the data world!
 
